@@ -1,0 +1,20 @@
+variables
+var Nombre = Silvia 
+strings
+var NombreCompleto = "SilviaCorigliano"
+funcion return
+dunction SumarDosNumeros (a , b){
+var Suma = (a + b)
+return Suma
+}
+Declaracion If
+function PuedenBeberAlcohol (edad){
+If (>16){
+return true
+}
+return false
+}
+PuedenBeberAlcohol (19 )// true
+valores booleanos
+var MeGustaCantar = true
+var MeGustaBailar = false
